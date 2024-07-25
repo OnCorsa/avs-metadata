@@ -1,7 +1,7 @@
 {
-    "name":"Corsa",
-    "website":"https://www.oncorsa.com/",
-    "description":"Decentralized Bitcoin-native programmable execution.",
-    "logo":"https://raw.githubusercontent.com/OnCorsa/avs-metadata/main/logo.png?token=GHSAT0AAAAAACS56NMLYSA34NLXZD7Y3ZFCZUZMZGQ",
-    "twitter":""
+    "name": "Corsa",
+    "website": "https://www.oncorsa.com/",
+    "description": "Bitcoin-native programmable execution. Corsa scales Bitcoin smart contract capabilities without the compromise of bridges or centralization.",
+    "logo": "https://raw.githubusercontent.com/OnCorsa/avs-metadata/main/logo_white_bg.png",
+    "twitter": "https://x.com/OnCorsa"
 }
